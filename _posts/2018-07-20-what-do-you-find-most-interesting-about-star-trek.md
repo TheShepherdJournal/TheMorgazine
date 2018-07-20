@@ -1,4 +1,5 @@
 ---
+---
 ID: 89
 post_title: >
   What do you find most interesting about
@@ -11,10 +12,7 @@ permalink: >
 published: true
 post_date: 2018-07-20 17:21:02
 ---
-<!-- wp:image {"id":91} -->
-<figure class="wp-block-image"><img src="http://jonmorgan.gazerbeam.com/wp-content/uploads/2018/07/space-scene.png" alt="" class="wp-image-91" /></figure>
-<!-- /wp:image -->
-
+<p>&nbsp;</p>
 <p>When I was a kid, “Star Trek” was one of the few science fiction shows on TV, and I watched it all of the time thanks to the power of UHF channels and TV syndication. Back then, there weren’t a lot of choices. Star Trek’s only other competitor was “Lost in Space,” another series which was in syndication around the same time. I found the robot in LIS to be interesting, but it always seemed like they were stuck on the same planet.</p>
 <p>Back then, as ten-year-old I appreciated “Star Trek” for its eye candy, i.e. the special effects. I loved seeing them fire their phasers, or when another ship was shown on the screen. “Botany Bay,” and “Doomsday Machine” were always my favorite episodes, because of the fight scenes. As I grew older, I started to appreciate the show for its storylines and its message.</p>
 <p>Overall, I’ve always liked the optimistic view of the future that was depicted in Star Trek. So many other series liked to predict doom and gloom, or destruction if aliens were involved. Gene Roddenberry brought us a vision of the future in which mankind strives for better things. Greed, hunger, and war are a thing of the past (for Earth, at least).</p>
